@@ -4,7 +4,7 @@ HTTP client
 Description:
 
 Program files:
-315850008_client.c - implement http/1.0 protocol to get or post request to a server.
+HTTP_client.c - implement http/1.0 protocol to get or post request to a server.
 the user insert data in the next format:
 [–p <text>] [–r n <pr1=value1 pr2=value2 ...>] <URL>
 while the URl is required and must be in the input to get the request
